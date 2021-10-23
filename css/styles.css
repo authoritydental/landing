@@ -34,7 +34,7 @@ html {
 
 /* Custom Styles */
 
-a {
+a:link, a:visited {
 	color:white;
 }
 
