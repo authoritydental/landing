@@ -38,6 +38,19 @@ a:link, a:visited {
 	color:white;
 }
 
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+  font-size:10px;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
 main {
 	display: flex;
 	flex-direction: column;
